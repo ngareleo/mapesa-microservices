@@ -1,3 +1,3 @@
-# Mapesa Node API
+# Microservices
 
-A node API for mobile and web apps
+Repository for all the microservices in the platform
